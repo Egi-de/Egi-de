@@ -36,7 +36,7 @@ I’m open to **full-time roles, freelance projects, and collaborations** in web
 
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Egi-de&theme=tokyonight&show_icons=true)
+
 
 ## ☕ Support My Work
 
