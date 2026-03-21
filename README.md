@@ -17,7 +17,7 @@ I’m particularly interested in using technology to create **real-world impact*
 I’m open to **full-time roles, freelance projects, and collaborations** in web and mobile development.
 
 📩 **Hire me:** egidefiston@gmail.com  
-🌐 **Portfolio:** https://egide-dev-portfolio.vercel.app
+🌐 **Portfolio:** https://egide-mbonigaba.vercel.app
 
 
 ## 🛠 Tech Stack
